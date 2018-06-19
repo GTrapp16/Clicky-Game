@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "mario",
+      "image": "./public/images/mario.gif"
+    },
+    {
+      "id": 2,
+      "name": "luigi",
+      "image": "./public/images/luigi.gif"
+    },
+    {
+      "id": 3,
+      "name": "dk",
+      "image": "./public/images/dk.gif"
+    },
+    {
+      "id": 4,
+      "name": "link",
+      "image": "./public/images/link.gif"
+    },
+    {
+      "id": 5,
+      "name": "samus",
+      "image": "./public/images/samus.gif"
+    },
+    {
+      "id": 6,
+      "name": "captainfalcon",
+      "image": "./public/images/captainfalcon.gif"
+    },
+    {
+      "id": 7,
+      "name": "ness",
+      "image": "./public/images/ness.gif"
+    },
+    {
+      "id": 8,
+      "name": "yoshi",
+      "image": "./public/images/yoshi.gif"
+    },
+    {
+      "id": 9,
+      "name": "kirby",
+      "image": "./public/images/kirby.gif"
+    },
+    {
+      "id": 10,
+      "name": "fox",
+      "image": "./public/images/fox.gif"
+    },
+    {
+      "id": 11,
+      "name": "pikachu",
+      "image": "./public/images/pikachu.gif"
+    },
+    {
+      "id": 12,
+      "name": "jigglypuff",
+      "image": "./public/images/jigglypuff.gif"
+    }
+  ]
+  
