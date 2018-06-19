@@ -2,4 +2,13 @@
     color: white;
     background-image: url('./background.jpg');
     background-repeat: repeat;
+    font: black;
+}
+
+.container {
+    font: black;
+}
+
+#container {
+    font: black;
 }
