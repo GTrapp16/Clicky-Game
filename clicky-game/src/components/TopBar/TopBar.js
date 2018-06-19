@@ -5,7 +5,7 @@ const TopBar = props => (
     <div>
         <nav className="navbar navbar-expand-lg navbar-light bg-info">
             <div className="container">
-                <span className="navbar-brand text-white" href="/">Click Bros!</span>
+                <span className="navbar-brand text-white" href="/">ClickBros</span>
             </div>
         </nav>
     </div>

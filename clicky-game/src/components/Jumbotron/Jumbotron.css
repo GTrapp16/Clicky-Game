@@ -5,10 +5,7 @@
     font: black;
 }
 
-.container {
-    font: black;
-}
-
-#container {
-    font: black;
+h1,p,h3,h5 {
+    color: black;
+    background-color: yellow
 }
